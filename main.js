@@ -15,6 +15,6 @@ selected.onclick = function(){
 	listed.classList.toggle("open")
 }
 
-toggleButton.onclick= function() {
+toggleButton.onclick = function() {
 	navbarLinks.classList.toggle('active')
 }
